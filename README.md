@@ -10,6 +10,7 @@ Felippe - https://github.com/FellyBrasil <br>
 Fabiano - https://github.com/SouzaF98 <br>
 Yasmim - https://github.com/Yasmim75 <br>
 Mariana - https://github.com/MarianaFigueiredoI <br>
+Matheus Duarte - https://github.com/Theusduarte123 <br>
 <h1> 🔨 FERRAMENTAS UTILIZADAS NO PROJETO </h1>
 - MySQL WorkBench <br>
 - XAMPP <br>
