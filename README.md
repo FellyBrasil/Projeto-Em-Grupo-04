@@ -2,7 +2,9 @@
 <h1> 💻 O PROJETO:</h1>
 Neste projeto, nosso squad criou um painel de controle com base nos dados selecionados por nós. O objetivo é realizar uma apresentação explorando esses dados. Durante a apresentação, vamos abordar as perguntas importantes, explicar sua relevância e mostrar as consultas SQL que as respondem.
 <h1> 🎮 O QUE É A STEAM?</h1>
-![STEAM](https://user-images.githubusercontent.com/95971564/218282878-181b6e56-6590-4426-aef4-63de80ff932f.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/95971564/218325815-f3c21f3b-3667-4270-a13d-19b6101e5724.jpg" width="700px" />
+</div>
 O Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Foi uma das primeiras de seu gênero a ser lançada e permite que consumidores comprem ou ativem jogos dentro do serviço. Possui um programa cliente, que deve ser instalado no computador, para que os jogos possam ser executados, mantendo tudo atualizado. Além de loja digital, funciona também como rede social.
 <h1> 🤝🏻 EQUIPE</h1>
 Vinícius - https://github.com/viniocean <br>
@@ -18,7 +20,9 @@ Matheus Duarte - https://github.com/Theusduarte123 <br>
 - PowerPoint <br>
 <h1> 🤔 PERGUNTAS REALIZADAS </h1>
 <h2>🔹 Quais são os jogos com mais conquistas? </h2>
-![jogos com mais ocnquistas](https://user-images.githubusercontent.com/95971564/218282928-a08b26aa-a6a2-44cf-9272-7d5ddbebd265.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/95971564/218325932-13b21f81-d281-4f88-897b-02268cfd07ae.png" width="700px" />
+</div>
 <h2>🔹 Quais são os jogos mais jogados? </h2>
 ![mais jogados](https://user-images.githubusercontent.com/95971564/218282941-2e6651e6-8be8-4958-89ee-8a54b1a86f1f.png)
 <h2>🔹 Qual o jogo com mais avaliações positivas? </h2>
