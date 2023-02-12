@@ -5,7 +5,7 @@ Neste projeto, nosso squad criou um painel de controle com base nos dados seleci
 <div align="center">
 <img src="https://user-images.githubusercontent.com/95971564/218325815-f3c21f3b-3667-4270-a13d-19b6101e5724.jpg" width="700px" />
 </div>
-O Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Foi uma das primeiras de seu gênero a ser lançada e permite que consumidores comprem ou ativem jogos dentro do serviço. Possui um programa cliente, que deve ser instalado no computador, para que os jogos possam ser executados, mantendo tudo atualizado. Além de loja digital, funciona também como rede social.
+A Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Foi uma das primeiras de seu gênero a ser lançada e permite que consumidores comprem ou ativem jogos dentro do serviço. Possui um programa cliente, que deve ser instalado no computador, para que os jogos possam ser executados, mantendo tudo atualizado. Além de loja digital, funciona também como rede social.
 <h1> 🤝🏻 EQUIPE</h1>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/95971564/218326469-5443c189-744d-4329-9622-3beada3519b9.png" width="700px" />
